@@ -16,7 +16,7 @@ export const CartIcon = () => {
         </svg>
     )
 }
-export const PulusIcon = () => {
+export const PlusIcon = () => {
     return (
         <svg 
             xmlns="http://www.w3.org/2000/svg" 
